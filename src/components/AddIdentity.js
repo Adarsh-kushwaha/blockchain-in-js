@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Button } from "@blueprintjs/core";
+import { Button } from "@blueprintjs/core"
 import { action } from "../store";
 
 export default class AddIdentity extends Component {
